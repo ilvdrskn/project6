@@ -137,10 +137,7 @@ footer  a {
         flex-direction: column;
     }
 
-    h1{
-        flex-grow: 0.3;
+    h1, p, ul {
+        flex: 1;
     }
-
-
-
 }
